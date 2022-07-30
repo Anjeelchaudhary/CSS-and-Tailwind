@@ -1,0 +1,135 @@
+*{
+    background-color:#6592CF;
+  }
+  .BigCircle {
+    width: 150px;
+    height: 150px;
+    background: transparent;
+    border-radius:50% ;
+    border:10px solid #243D83;
+    position:absolute;
+    top:75px;
+    left:115px;
+  }
+  .semiCircle{
+  height:100px;
+  width:100px;
+  border:10px solid #243D83;
+  border-radius:50%;
+  border-bottom-color:transparent;
+  border-right-color:transparent;
+  transform:rotate(13deg);
+    position:absolute;
+    top:200px;
+    left:140px;}
+  .square1{
+    height:150px;
+    width:150px;
+    position:absolute;
+    top:135.5;
+    left:160;
+    border-radius:100% 0px 0px 0px ;
+    background:transparent;
+    border:10px solid #6592CF;
+    border-bottom-color:transparent;
+    border-right-color:transparent;
+    transform:rotate(225.5deg);
+  }
+  .smallCircle1{
+    height:30px;
+    width:30px;
+    border:10px solid #243D83;
+    border-radius:50%;
+    position:absolute;
+    top:95;
+    left:105;
+  }
+  .smallCircle2{
+    height:30px;
+    width:30px;
+    border:10px solid #243D83;
+    border-radius:50%;
+    position:absolute;
+    top:165;
+    left:105;
+  }
+  .smallCircle3{
+     height:30px;
+    width:30px;
+    border:10px solid #243D83;
+    border-radius:50%;
+    position:absolute;
+    top:55;
+    left:175;
+  }
+  .smallCircle4{
+    height:30px;
+    width:30px;
+    border:10px solid #243D83;
+    border-radius:50%;
+    position:absolute;
+    top:95;
+    left:245;
+  }
+  .smallCircle5{
+    height:30px;
+    width:30px;
+    border:10px solid #243D83;
+    border-radius:50%;
+    position:absolute;
+    top:165;
+    left:245;
+  }
+  .transparentSquare{
+     height:60px;
+    width:50px;
+    background-color:#6592CF;
+     position:absolute;
+    top:235;
+    left:120;
+  }
+  .dot0{
+    height:10px;
+    width:10px;
+    background-color:#243D83;
+    border-radius:50%;
+    position:absolute;
+    top:185;
+    left:125;
+  }
+  .dot1{
+    height:10px;
+    width:10px;
+    background-color:#243D83;
+    border-radius:50%;
+    position:absolute;
+    top:115;
+    left:125;
+  }
+  .dot2{
+    height:10px;
+    width:10px;
+    background-color:#243D83;
+    border-radius:50%;
+    position:absolute;
+    top:115;
+    left:265;
+  }
+  .dot3{
+    height:10px;
+    width:10px;
+    background-color:#243D83;
+    border-radius:50%;
+    position:absolute;
+    top:185;
+    left:265;
+  }
+  .dot4{
+    height:10px;
+    width:10px;
+    background-color:#243D83;
+    border-radius:50%;
+    position:absolute;
+    top:75;
+    left:195;
+  }
