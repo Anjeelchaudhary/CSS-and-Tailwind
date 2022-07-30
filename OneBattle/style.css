@@ -1,0 +1,47 @@
+.row {
+    display: flex;
+}
+
+.one {
+    width: 40px;
+    height: 40px;
+    background: #dd6b4d;
+    border-radius: 50%;
+    margin: 10px 6px 0px 13px;
+}
+
+.row1 {
+    display: flex;
+}
+
+.two {
+    width: 40px;
+    height: 40px;
+    background: #dd6b4d;
+    border-radius: 50%;
+    margin: 20px 6px 0px 13px;
+}
+
+.row2 {
+    display: flex;
+}
+
+.three {
+    width: 40px;
+    height: 40px;
+    background: #dd6b4d;
+    border-radius: 50%;
+    margin: 22px 6px 0px 13px;
+}
+
+.row3 {
+    display: flex;
+}
+
+.four {
+    width: 40px;
+    height: 40px;
+    background: #dd6b4d;
+    border-radius: 50%;
+    margin: 20px 6px 0px 13px;
+}
