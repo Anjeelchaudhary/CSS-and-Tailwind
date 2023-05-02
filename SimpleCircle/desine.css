@@ -1,0 +1,10 @@
+  *{background:#F5D6B4;}
+  .circle {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    background: #dd6b4d;
+    position:absolute;
+    top:0px;
+    left:0px;
+  }
